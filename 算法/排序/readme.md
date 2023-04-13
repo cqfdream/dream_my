@@ -11,4 +11,4 @@ O(n)
 - 我的算法时间复杂度O(n^2) 空间复杂度 O(n)
 - 快排时间复杂度 O(n*log n)
 
-- Math.floor() 向下取整
+- Math.floor() 向下取整.
