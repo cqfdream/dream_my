@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/main/main",
+    "pages/detail/detail"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#4abb3b",
+    "navigationBarTitleText": "英语圈",
+    "navigationBarTextStyle": "white"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
