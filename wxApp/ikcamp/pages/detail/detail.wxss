@@ -6,6 +6,7 @@ page{
 }
 .root-wrap{
   height: 100%;
+  
 }
 .wrapper{
 
