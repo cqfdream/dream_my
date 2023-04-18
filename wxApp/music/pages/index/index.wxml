@@ -1,0 +1,45 @@
+<!--pages/index/index.wxml-->
+<view class="wrap">
+  <view class="bg"></view>
+
+  <view class="content">
+    <view class="pic">
+      <image class="" src="" mode="widthFix"/>
+    </view>
+    
+    <view class="name">
+      <text>歌曲名字</text>
+    </view>
+
+    <view class="author">
+      <text>作者</text>
+    </view>
+
+    <view class="progress-box">
+    <progress percent="60" color="red" active stroke-width="3" />
+    </view>
+
+    <view class="button">
+      <view class="circulate">
+        <image class="" src="/images/circulate.png" mode="widthFix" style="height: 60rpx ; width:40rpx;"/>
+      </view>
+
+      <view class="previous">
+        <image class="" src="" mode="widthFix"/>
+      </view>
+      
+      <view class="stop">
+        <image class="" src="" mode="widthFix"/>
+      </view>
+
+      <view class="next">
+        <image class="" src="" mode="widthFix"/>
+      </view>
+
+      <view class="collect">
+        <image class="" src="" mode="widthFix"/>
+      </view>
+    </view>
+
+  </view>
+</view>
